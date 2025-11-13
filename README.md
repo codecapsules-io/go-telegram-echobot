@@ -1,6 +1,8 @@
 
 <p align="center">
   <a href="https://codecapsules.io/">
+        <img alt="Code Capsules" title="Code Capsules" src="./logo.svg" width="400" style="color: black">
+
   </a>
 </p>
 
