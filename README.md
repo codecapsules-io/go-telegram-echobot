@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://codecapsules.io/">
-        <img alt="Code Capsules" title="Code Capsules" src="./logo.svg" width="400" style="color: black">
+        <img alt="Code Capsules" title="Code Capsules" src="https://cdn.prod.website-files.com/67ceb2cb686dbb71573b4e01/67cebcb49209deccb991799d_Code%20Capsules%20-%20Logo%201.svg" width="400" style="color: black">
 
   </a>
 </p>
